@@ -150,9 +150,9 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
+            &copy; 2022 Kubai Augustine Mweteri{' '}
+            <a href='https://github.com/Teri11' rel='nofollow'>
+              Github
             </a>
           </p>
         </div>
